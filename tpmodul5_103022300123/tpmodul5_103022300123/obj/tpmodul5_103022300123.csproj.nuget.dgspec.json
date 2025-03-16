@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Documents/KPL/tp5/tpmodul5_103022301023/tpmodul5_103022301023/tpmodul5_103022300123.csproj": {}
+    "/Users/mac/Documents/KPL/tp5/tpmodul5_103022300123/tpmodul5_103022300123/tpmodul5_103022300123.csproj": {}
   },
   "projects": {
-    "/Users/mac/Documents/KPL/tp5/tpmodul5_103022301023/tpmodul5_103022301023/tpmodul5_103022300123.csproj": {
+    "/Users/mac/Documents/KPL/tp5/tpmodul5_103022300123/tpmodul5_103022300123/tpmodul5_103022300123.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Documents/KPL/tp5/tpmodul5_103022301023/tpmodul5_103022301023/tpmodul5_103022300123.csproj",
+        "projectUniqueName": "/Users/mac/Documents/KPL/tp5/tpmodul5_103022300123/tpmodul5_103022300123/tpmodul5_103022300123.csproj",
         "projectName": "tpmodul5_103022300123",
-        "projectPath": "/Users/mac/Documents/KPL/tp5/tpmodul5_103022301023/tpmodul5_103022301023/tpmodul5_103022300123.csproj",
+        "projectPath": "/Users/mac/Documents/KPL/tp5/tpmodul5_103022300123/tpmodul5_103022300123/tpmodul5_103022300123.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Documents/KPL/tp5/tpmodul5_103022301023/tpmodul5_103022301023/obj/",
+        "outputPath": "/Users/mac/Documents/KPL/tp5/tpmodul5_103022300123/tpmodul5_103022300123/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"

@@ -5,10 +5,7 @@ namespace tpmodul5_103022301023
     {
         static void Main(string[] args)
         {
-            HaloGeneric halo = new HaloGeneric();
-            Console.Write("Masukkan nama: ");
-            string nama = Console.ReadLine();
-            halo.SapaUser(nama);
+            Console.WriteLine("hello");
             Console.ReadLine();
         }
     }

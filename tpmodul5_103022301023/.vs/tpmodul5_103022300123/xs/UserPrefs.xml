@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A40EC8B8-CDCB-493A-A500-278B5FEC5558}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tpmodul5_103022301023/Program.cs">
+    <Files>
+      <File FileName="tpmodul5_103022301023/Program.cs" Line="9" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>tpmodul5_103022301023/tpmodul5_103022300123.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.tpmodul5__103022300123 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
